@@ -1,3 +1,7 @@
+'''
+153 == 1³ + 5³ + 3³
+'''
+
 def sum_of_digits(x):
 	no_of_digits = len(str(x))
 	sum_ = 0
