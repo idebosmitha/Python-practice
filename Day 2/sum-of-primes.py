@@ -22,4 +22,5 @@ print(sum_of_primes)
 
 
 # Do not read if you're a beginner
+# And if you're not, you already know not to do this :)
 print(reduce(lambda a, b: a + b, filter(is_prime, list(range(n1, n2+1)))))
